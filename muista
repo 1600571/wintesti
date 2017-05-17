@@ -1,0 +1,5 @@
+Tee koneelle puppetmaster ja nimeä se apina.local
+
+Puppet agentin lukon poisto polku C:/ProgramData/PuppetLabs/puppet/var/state
+
+chocolateyn appien poisto C:/ProgramData/chocolatey/lib
