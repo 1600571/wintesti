@@ -1,0 +1,31 @@
+First things first. Thank you for downloading Edge Player III!
+
+To get the most out of EPIII you're going to need to understand the various settings and features. 
+You can access the settings menu two ways. 1: Right click the skin and go to Edge Player 3.0 > Settings > settings.ini  or  2: Click the hidden gear icon next to the duration display on the skin.
+Once you have opened the skin settings menu you have several options.
+
+
+Show/Hide - This will allow you to decide if the skin will always be visible or if you want the skin to automatically disappear once you have closed your media.
+	    Enter "Show" to make the skin always visible. Enter "Hide" to make the skin automatically disappear.
+
+Player Name - This is where you enter the code for the player that EPIII will be associated with. 
+              A full list of supported players and their codes can be found in the Help Menu of the settings skin and at http://docs.rainmeter.net/manual/plugins/nowplaying
+
+Font - This section allows you to change the font of the info display. This will only effect the "Song Title", "Artist Name", and "Album Name" sections.
+
+Text Color - This section allows you to change the color of the info display. This will only effect the "Song Title", "Artist Name", and "Album Name" sections.
+             Colors are selected using the RGB 3 part numerical value codes. Examples can be found in the Help Menu of the settings skin.
+
+Bar Color - This section allows you to change the color of the progress bar. Value entry is similar to "Text Color."
+
+Transparency - This sections allows you to modify the transparency of the entire skin. 
+               Transparency is selected using a single numerical value code. Examples can be found in the Help Menu of the settings skin.
+
+Album Art - This will allow you to decide if the album art will be visible or hidden.
+	    Enter "0" to make the Album Art visible. Enter "1" to make the Album Art hidden.
+
+Background - This section allows you to adjust the color and transparency of the skins background.
+	     Enter a 4 part numerical value code. The first 3 parts representing the color and the final part representing the transparency. 
+
+
+For additional assistance refer to the "Help" section of the settings menu.
